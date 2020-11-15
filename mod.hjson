@@ -1,7 +1,6 @@
-name: "LEYNmod"
-displayName: "[white]LEYN мод[]"
+name: "LEYN mod"
 author: "[orange]_[white]LEYN[][]"
 description: "Изменения в переводе. [accent]Полностью[] переделывает лор Mindustry.\nПри игре с этим модом рекомендуется сбросить прогресс кампании.\n[scarlet]Совестимо только с русской версией игры.[]\nМой сервер в Дискорде (на нём вы также сможете рассказать ошибку и получить специальную роль): [royal]https://discord.gg/ftGX4rX[]\n[green]Теперь с этим модом можно игарть на серверах![]"
 hidden: true
-version: "1.1"
-minGameVersion: "104"
+version: "2.0 beta"
+minGameVersion: "105"
