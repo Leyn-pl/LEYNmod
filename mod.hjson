@@ -2,5 +2,5 @@ name: "LEYN mod"
 author: "[orange]_[white]LEYN[][]"
 description: "Изменения в переводе. Постарался добавить описания для всех карт. \n[scarlet]Совестимо только с русской версией игры.[]\nМой сервер в Дискорде (на нём вы также сможете рассказать ошибку и получить специальную роль): [royal]https://discord.gg/ftGX4rX[]"
 hidden: true
-version: "2.0 beta"
+version: "2.0"
 minGameVersion: "105"
