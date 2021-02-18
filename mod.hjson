@@ -1,6 +1,6 @@
-name: "LEYN mod"
+name: "[red]LEYN mod[]"
 author: "[orange]_[white]LEYN[][]"
-description: "[scarlet]ВНИМАНИЕ:[]\nИгра с этим модом может повиять на ваше психическое здоровье. Если оно уже повреждено, приглашаем вас в дурку:\n[royal]https://discord.gg/kqRsRCN[]"
+description: "[scarlet]ВНИМАНИЕ:[]\nНе скачивайте этот мод если вас устраивает перевод игры. Если нет, приглашаем вас в дурку:\n[royal]https://discord.gg/kqRsRCN[]"
 hidden: true
-version: "3.8"
-minGameVersion: "105"
+version: "4.0"
+minGameVersion: "125"
